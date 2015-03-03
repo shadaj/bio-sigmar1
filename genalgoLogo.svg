@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" clip-rule="evenodd" stroke-miterlimit="10" viewBox="100 150 824 468">
+    <defs>
+      <style>
+        @import url(http://fonts.googleapis.com/css?family=Quicksand:400,700);
+      </style>
+    </defs>
+    <g transform="matrix(1.00, 0.00, -0.00, -1.00, 0.0, 768.0)">
+        <path d="M 77.0 0.0 C 87.4 32.0 87.3 66.5 76.7 98.5 C 63.8 137.5 36.3 170.0 0.0 189.3 " fill="none" stroke="#0096FF" stroke-width="22.00" transform="matrix(1.00, 0.00, 0.00, -1.00, 222.6, 573.3)" />
+        <path d="M 7.7 189.3 C -2.7 157.3 -2.6 122.8 8.0 90.8 C 20.9 51.8 48.4 19.2 84.7 0.0 " fill="none" stroke="#00F900" stroke-width="22.00" transform="matrix(1.00, 0.00, 0.00, -1.00, 137.9, 384.0)" />
+        <path d="M 77.0 189.3 C 87.4 157.3 87.3 122.8 76.7 90.8 C 63.8 51.8 36.3 19.2 0.0 0.0 " fill="none" stroke="#FF2600" stroke-width="22.00" transform="matrix(1.00, 0.00, 0.00, -1.00, 222.6, 384.0)" />
+        <path d="M 7.7 0.0 C -2.7 32.0 -2.6 66.5 8.0 98.5 C 20.9 137.5 48.4 170.0 84.7 189.3 " fill="none" stroke="#FEFB00" stroke-width="22.00" transform="matrix(1.00, 0.00, 0.00, -1.00, 137.9, 573.3)" />
+        <text xml:space="preserve" font-family="Quicksand-Bold,Quicksand" font-weight="bold" font-size="135.0" fill="#FF9300" transform="matrix(1.00, 0.00, -0.00, -1.00, 342.4, 333.0)">genalgo</text>
+    </g>
+</svg>
